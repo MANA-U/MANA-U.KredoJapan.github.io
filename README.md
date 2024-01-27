@@ -7,5 +7,5 @@ I've created the UI for the top page of an one column website. It includes a nav
 - language: HTML, CSS
 
 # Screenshot
-![KredoJapan_01](https://github.com/MANA-U/MANA-U.KredoJapan.github.io/assets/144035440/00142395-49c5-48d5-8035-4234568773c2)
-![KredoJapan_02](https://github.com/MANA-U/MANA-U.KredoJapan.github.io/assets/144035440/8bf9f2b5-4f9b-4645-8ba7-24b9e09519f8)
+![KredoJapan](https://github.com/MANA-U/MANA-U.KredoJapan.github.io/assets/144035440/2e211f85-bd57-43fa-b7e5-768b29e8e262)
+
